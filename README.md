@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Maruthees
-- 👀 I’m interested in Network Devops
-- 🌱 I’m currently learning DevOps & cloud .
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Network product testing
+- 🌱  
+- 💞️  
 - 📫 How to reach me ...
 
 <!---
